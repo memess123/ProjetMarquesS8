@@ -20,6 +20,7 @@ public class DogController {
 	/**
 	 * <p>Get all dogs in the system</p>
 	 * @return List<DogDto>
+	 *     test commit
 	 */
 	@GetMapping
 	public List<DogDto> getDogs() {
